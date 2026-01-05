@@ -1,0 +1,16 @@
+body {
+    color:blueviolet;
+    background-color: rgb(39, 39, 39);
+}
+
+h1 {
+    color:pink;
+}
+
+a {
+    color: pink;
+    margin-left:20px;
+    padding:5px;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
